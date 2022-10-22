@@ -29,7 +29,7 @@
         <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="aws" width="40" height="40" /></a>
         <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
 	      <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
-        <a href="https://stackshare.io/search/q=aws" target="_blank"><<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
+        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
         
 <h3 align="center">Systems:</h3>
     <p align="center">
