@@ -1,34 +1,43 @@
-## Oi! Eu sou o Gleison!👽
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=header"/>
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7FFFD4&size=35&center=true&vCenter=true&width=1000&lines=Hi,+Gleison+Lemos,+here;I'm+22+years+old;I'm+from+Horizonte,+CE;I+love+programming;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-- 🧷 Atualmente trabalho com teares retilíneos
-- 🐍 Estou estudando Python
-- 📧 Contate-me pelo email gleison04lemos@gmail.com
-- 🌠 Procurando mudar de área e expandir conhecimentos
 
-##
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gleis0nLemos&show_icons=true&count_private=true&hide_border=true&title_color=D2B48C&icon_color=FFFAFA&text_color=D2B48C&bg_color=0d1117" alt="Gleison Lemos' GitHub Stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleis0nLemos&layout=compact&hide_border=true&title_color=D2B48C&text_color=D2B48C&bg_color=0d1117" />
+</div>
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=Gleis0nLemos&theme=gotham&hide_border=true&area=true)
 
 <div align="center">
-  <a href="https://github.com/Gleis0nLemos">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Gleis0nLemos&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gleis0nLemos&layout=compact&langs_count=7&theme=highcontrast"/>
+  <a href="https://www.instagram.com/__gleisonlemos/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
+  <a href = "mailto:gleison04lemos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gleison-lemos-3b3929239" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  
-</div>
-  
-##
-  
-<div>
-  <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/rafaballerinii" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/wagxzStdcR" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/rafaella-ballerini-45875016a" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+
+<p></p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Gleis0nLemos&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15&" />
+</p>
  
-  ![Snake animation](https://github.com/Gleis0nLemos/Gleis0nLemos/blob/output/github-contribution-grid-snake.svg)
+<h3 align="center">Languages I'm learning:</h3>
+    <p align="center">
+        <a href="https://stackshare.io/python" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/python/python-original.svg" alt="python" width="40" height="40" /></a>
+        <a href="https://stackshare.io/ruby" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" /></a>
+        <a href="https://stackshare.io/javascript" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" /></a>
+        
+<h3 align="center">Frameworks and db:</h3>
+     <p align="center">
+        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="aws" width="40" height="40" /></a>
+        <a href="https://stackshare.io/rails" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" /></a>
+	      <a href="https://stackshare.io/postgresql" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" /></a>
+        <a href="https://stackshare.io/search/q=aws" target="_blank"><<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
+        
+<h3 align="center">Systems:</h3>
+    <p align="center">
+        <a href="https://stackshare.io/search/q=aws" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" alt="aws" width="40" height="40" /></a>
+        <a href="https://stackshare.io/linux" target="_blank"><img src="https://github.com/devicons/devicon/raw/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" /></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=87CEEB&height=120&section=footer"/>
